@@ -4,8 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "ts": "tsc --watch",
-    "dev": "node --watch ./dist",
+    "dev": "node --watch ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
